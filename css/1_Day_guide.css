@@ -1,0 +1,69 @@
+#days-MahakalMandir {
+    margin: 20px auto;
+}
+#days-MahakalMandir2 {
+    margin: 20px auto;
+}
+#days-MahakalMandir3 {
+    margin: 20px auto;
+}
+
+
+.h1-heading {
+
+    margin: 50px auto;
+    color: black;
+}
+
+.card-day1 {
+      
+    padding: 20px;
+    margin: 50px 10px;
+}
+
+.card-title {
+    margin: 20px 0px;
+}
+
+.days_plainimg {
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    
+}
+
+.day1welcome{
+    text-align: center;
+    margin: 12px auto;
+
+
+}
+
+.para{
+    margin-bottom: 50px;
+}
+
+.paragrapy{
+    text-align: center;
+    width: 1000px;
+    display: block;
+    margin: auto;
+  
+}
+
+.parabox{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 800px;
+    border: 2px solid black;
+    padding: 10px;
+    /* text-align: center; */
+  }
+
+  .hote-heading{
+      background-color: none;
+  }
+  #hotel{
+    background-color: none;
+  }
